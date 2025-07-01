@@ -1,4 +1,4 @@
-# Nhom2-PhamNgocSon
+# Nhom2-BuiTHienPhu
 Bảo Mật Thông Tin Cá Nhân - Mã Hóa Đối Xứng (Triple DES & AES)
 Giới thiệu
 Đồ án xây dựng hệ thống quản lý thông tin cá nhân, áp dụng các thuật toán mã hóa đối xứng (Triple DES và AES) để bảo vệ dữ liệu nhạy cảm như CCCD, địa chỉ, số tài khoản. Hệ thống cho phép đăng ký, đăng nhập, sửa, xóa tài khoản, đồng thời ghi log truy cập để kiểm soát hoạt động.
